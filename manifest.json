@@ -1,0 +1,9 @@
+{
+  "id": "bewertungsboy",
+  "name": "BB",
+  "version": "0.1.7",
+  "minAppVersion": "1.4.0",
+  "description": "Verlaufsplan live: Regie fuer Unterrichtsstunden direkt im Vault.",
+  "author": "nezha",
+  "isDesktopOnly": false
+}
